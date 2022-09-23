@@ -1,9 +1,0 @@
-{
-    "name": "CloudSet",
-    "version": "1.0",
-    "description": "Set the cloud variables of a project.",
-    "manifest_version": 3,
-    "action":{
-        "default_popup": "display.html"
-    }
-}
